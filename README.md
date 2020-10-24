@@ -9,4 +9,4 @@
 #### react http://localhost:3000
 #### server http://localhost:8090
 
-### enjoy to development React app
+### enjoy to development React app.
